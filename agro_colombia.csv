@@ -1,0 +1,501 @@
+ID_Finca,Departamento,Tipo_Cultivo,Area_Hectareas,Produccion_Anual_Ton,Sistema_Riego_Tecnificado,Nivel_Tecnificacion,Precio_Venta_Por_Ton_COP,Tipo_Suelo,Fecha_Ultima_Auditoria
+FINCA_0000,Santander,Banano Exportación,13.64,61.9,False,Bajo,7791256,Volcánico,2025-06-12
+FINCA_0001,Quindío,Banano Exportación,14.92,60.3,False,Alto,1828821,Arcilloso,2025-04-08
+FINCA_0002,Valle del Cauca,Café Variedad Castillo,20.11,73.1,True,Muy Alto,3680707,Arcilloso,2025-10-02
+FINCA_0003,Santander,Aguacate Hass,2.96,99.8,False,Bajo,3201243,Franco-Limoso,2025-09-19
+FINCA_0004,Caldas,Café Variedad Colombia,17.46,45.0,False,Medio,5387008,Franco-Arenoso,2025-12-02
+FINCA_0005,Nariño,Café Variedad Castillo,12.15,83.0,False,Alto,3312375,Franco-Limoso,2025-02-28
+FINCA_0006,Valle del Cauca,Café Variedad Colombia,17.72,70.1,False,Bajo,7968262,Franco-Limoso,2025-04-19
+FINCA_0007,Valle del Cauca,Café Variedad Colombia,7.75,35.7,True,Medio,5127447,Arcilloso,2025-06-25
+FINCA_0008,Santander,Aguacate Hass,44.75,106.0,True,Alto,8225275,Franco-Arenoso,2025-08-26
+FINCA_0009,Huila,Café Variedad Colombia,30.49,96.7,False,Medio,5115652,Volcánico,2025-04-21
+FINCA_0010,Caldas,Café Variedad Colombia,34.6,80.7,True,Bajo,6693734,Arcilloso,2025-03-27
+FINCA_0011,Santander,Aguacate Hass,39.88,102.8,False,Medio,1568803,Volcánico,2025-12-23
+FINCA_0012,Caldas,Café Variedad Colombia,25.93,104.7,False,Alto,7621015,Volcánico,2025-04-14
+FINCA_0013,Caldas,Café Variedad Colombia,6.17,86.5,False,Medio,2307744,Franco-Arenoso,2025-12-07
+FINCA_0014,Nariño,Café Variedad Colombia,27.78,101.3,False,Bajo,2248736,Franco-Limoso,2025-04-27
+FINCA_0015,Valle del Cauca,Café Variedad Castillo,30.17,85.2,False,Alto,7220622,Franco-Arenoso,2025-11-28
+FINCA_0016,Quindío,Café Variedad Castillo,37.78,83.2,True,Bajo,2199539,Volcánico,2025-05-14
+FINCA_0017,Nariño,Café Variedad Castillo,22.72,76.1,False,Alto,1745404,Arcilloso,2025-07-03
+FINCA_0018,Nariño,Aguacate Hass,8.12,91.6,True,Bajo,8433705,Volcánico,2025-12-03
+FINCA_0019,Caldas,Banano Exportación,15.62,23.2,True,Muy Alto,7045403,Arcilloso,2025-07-23
+FINCA_0020,Tolima,Café Variedad Colombia,19.43,106.3,False,Medio,1517297,Arcilloso,2025-11-15
+FINCA_0021,Valle del Cauca,Café Variedad Colombia,33.0,105.3,False,Medio,2288443,Franco-Arenoso,2025-07-20
+FINCA_0022,Huila,Aguacate Hass,29.4,8.4,False,Bajo,5155074,Volcánico,2025-12-13
+FINCA_0023,Nariño,Café Variedad Colombia,19.09,100.0,False,Medio,4765962,Franco-Limoso,2025-06-20
+FINCA_0024,Quindío,Café Variedad Castillo,49.35,19.8,False,Alto,6262606,Volcánico,2025-04-14
+FINCA_0025,Tolima,Banano Exportación,31.08,43.5,True,Muy Alto,7510334,Volcánico,2025-05-16
+FINCA_0026,Tolima,Cacao Premium,13.39,90.5,False,Medio,4526394,Franco-Limoso,2025-04-12
+FINCA_0027,Huila,Café Variedad Colombia,6.89,23.5,False,Medio,7623645,Franco-Arenoso,2025-01-28
+FINCA_0028,Nariño,Café Variedad Castillo,9.34,99.1,True,Alto,2727146,Volcánico,2025-09-20
+FINCA_0029,Quindío,Cacao Premium,13.81,100.7,True,Alto,4380304,Volcánico,2025-11-20
+FINCA_0030,Valle del Cauca,Banano Exportación,9.71,63.4,False,Medio,7252613,Arcilloso,2025-07-03
+FINCA_0031,Antioquia,Cacao Premium,10.96,5.7,True,Medio,7669151,Volcánico,2025-08-31
+FINCA_0032,Quindío,Café Variedad Castillo,15.68,38.0,False,Medio,2833572,Franco-Limoso,2025-08-16
+FINCA_0033,Huila,Cacao Premium,10.32,75.9,True,Medio,7137025,Arcilloso,2025-04-19
+FINCA_0034,Tolima,Aguacate Hass,45.04,117.8,True,Bajo,6205907,Franco-Arenoso,2026-01-26
+FINCA_0035,Valle del Cauca,Cacao Premium,5.85,77.7,False,Medio,2115863,Arcilloso,2025-03-02
+FINCA_0036,Quindío,Café Variedad Colombia,27.18,34.9,True,Medio,6201669,Franco-Limoso,2025-07-14
+FINCA_0037,Antioquia,Café Variedad Colombia,21.7,77.9,True,Alto,5265056,Franco-Limoso,2025-05-10
+FINCA_0038,Antioquia,Aguacate Hass,49.15,67.1,True,Bajo,4825315,Arcilloso,2025-06-05
+FINCA_0039,Caldas,Café Variedad Castillo,7.38,94.7,True,Medio,7272912,Franco-Arenoso,2025-05-18
+FINCA_0040,Caldas,Café Variedad Colombia,21.1,17.3,True,Medio,7178513,Arcilloso,2025-08-27
+FINCA_0041,Santander,Banano Exportación,48.53,92.5,True,Medio,6717092,Franco-Arenoso,2025-02-03
+FINCA_0042,Huila,Café Variedad Colombia,43.54,67.2,False,Bajo,2328791,Arcilloso,2025-05-10
+FINCA_0043,Nariño,Café Variedad Colombia,41.22,115.7,False,Medio,5320887,Franco-Limoso,2025-04-15
+FINCA_0044,Quindío,Café Variedad Castillo,14.38,44.3,True,Medio,8152346,Volcánico,2025-05-04
+FINCA_0045,Quindío,Cacao Premium,10.2,77.8,False,Medio,4346274,Volcánico,2026-01-03
+FINCA_0046,Nariño,Café Variedad Colombia,34.09,112.2,False,Medio,6339498,Franco-Arenoso,2026-01-27
+FINCA_0047,Santander,Aguacate Hass,46.61,16.8,False,Medio,5895564,Franco-Arenoso,2025-06-13
+FINCA_0048,Tolima,Cacao Premium,28.72,112.8,True,Alto,7488099,Franco-Arenoso,2025-01-28
+FINCA_0049,Tolima,Banano Exportación,29.44,84.1,False,Bajo,6946079,Franco-Limoso,2025-02-03
+FINCA_0050,Santander,Café Variedad Castillo,15.44,12.8,True,Alto,1876794,Arcilloso,2025-08-18
+FINCA_0051,Tolima,Banano Exportación,38.94,39.6,False,Medio,5378450,Franco-Limoso,2025-09-19
+FINCA_0052,Caldas,Cacao Premium,10.98,86.4,True,Bajo,4533349,Volcánico,2025-07-16
+FINCA_0053,Quindío,Cacao Premium,17.54,12.7,True,Bajo,3021466,Franco-Arenoso,2025-02-24
+FINCA_0054,Santander,Cacao Premium,22.42,71.9,False,Medio,3980252,Arcilloso,2026-01-03
+FINCA_0055,Quindío,Banano Exportación,26.37,44.8,False,Alto,7907054,Volcánico,2025-11-13
+FINCA_0056,Nariño,Cacao Premium,13.64,76.4,True,Alto,8041556,Volcánico,2025-03-03
+FINCA_0057,Antioquia,Banano Exportación,7.51,10.3,False,Alto,2282877,Volcánico,2025-06-14
+FINCA_0058,Caldas,Cacao Premium,31.31,105.2,False,Medio,6402825,Franco-Limoso,2025-09-01
+FINCA_0059,Valle del Cauca,Aguacate Hass,15.85,117.0,False,Medio,7924697,Franco-Arenoso,2026-01-16
+FINCA_0060,Caldas,Cacao Premium,29.9,116.4,True,Bajo,5385180,Volcánico,2025-08-10
+FINCA_0061,Santander,Banano Exportación,9.41,91.2,True,Medio,6896004,Franco-Arenoso,2026-01-14
+FINCA_0062,Valle del Cauca,Café Variedad Colombia,25.09,20.0,False,Medio,5110793,Franco-Limoso,2025-05-18
+FINCA_0063,Antioquia,Cacao Premium,27.56,92.2,False,Bajo,7799492,Volcánico,2026-01-10
+FINCA_0064,Santander,Café Variedad Colombia,4.49,7.8,False,Bajo,7298946,Franco-Limoso,2025-11-10
+FINCA_0065,Huila,Aguacate Hass,18.16,7.5,True,Medio,4799973,Franco-Limoso,2025-08-31
+FINCA_0066,Quindío,Café Variedad Castillo,8.45,42.2,True,Alto,7428643,Franco-Arenoso,2026-01-03
+FINCA_0067,Antioquia,Aguacate Hass,5.04,61.2,False,Muy Alto,4580977,Volcánico,2025-10-30
+FINCA_0068,Quindío,Cacao Premium,49.52,93.6,False,Muy Alto,3799899,Franco-Limoso,2025-09-11
+FINCA_0069,Tolima,Café Variedad Colombia,17.47,83.6,False,Medio,3472424,Volcánico,2025-09-09
+FINCA_0070,Huila,Café Variedad Colombia,40.87,56.3,False,Medio,8334544,Franco-Arenoso,2025-06-02
+FINCA_0071,Huila,Banano Exportación,14.22,36.5,False,Medio,2836092,Franco-Limoso,2025-12-02
+FINCA_0072,Antioquia,Café Variedad Colombia,34.71,119.7,False,Alto,7066540,Franco-Arenoso,2025-03-19
+FINCA_0073,Huila,Banano Exportación,38.49,54.0,True,Bajo,7549850,Volcánico,2025-04-04
+FINCA_0074,Valle del Cauca,Café Variedad Castillo,30.59,56.9,False,Medio,2350350,Volcánico,2025-08-31
+FINCA_0075,Huila,Cacao Premium,24.64,23.8,True,Alto,6626781,Franco-Arenoso,2025-01-30
+FINCA_0076,Quindío,Banano Exportación,21.77,96.4,False,Medio,4979027,Arcilloso,2025-12-21
+FINCA_0077,Quindío,Café Variedad Castillo,18.75,84.8,False,Medio,4705228,Franco-Limoso,2025-10-22
+FINCA_0078,Santander,Café Variedad Colombia,46.62,30.4,True,Medio,1667647,Volcánico,2025-02-05
+FINCA_0079,Quindío,Café Variedad Colombia,41.87,14.5,True,Bajo,3833679,Volcánico,2025-12-30
+FINCA_0080,Santander,Café Variedad Castillo,48.32,83.3,True,Medio,1935477,Franco-Limoso,2025-11-02
+FINCA_0081,Quindío,Café Variedad Colombia,7.97,80.3,True,Medio,3183523,Franco-Arenoso,2025-04-15
+FINCA_0082,Valle del Cauca,Café Variedad Castillo,37.08,36.4,False,Bajo,8343460,Franco-Arenoso,2025-08-17
+FINCA_0083,Nariño,Banano Exportación,47.04,114.3,True,Bajo,7151944,Franco-Arenoso,2026-01-17
+FINCA_0084,Santander,Banano Exportación,10.7,22.4,False,Alto,5696656,Arcilloso,2025-10-10
+FINCA_0085,Caldas,Café Variedad Castillo,5.19,54.7,True,Bajo,5827308,Arcilloso,2025-06-27
+FINCA_0086,Tolima,Banano Exportación,37.57,113.5,False,Medio,4460033,Volcánico,2025-10-06
+FINCA_0087,Antioquia,Banano Exportación,29.57,53.3,False,Bajo,3081420,Franco-Arenoso,2025-11-27
+FINCA_0088,Quindío,Banano Exportación,42.41,78.4,False,Muy Alto,2286261,Franco-Limoso,2025-02-03
+FINCA_0089,Huila,Aguacate Hass,8.71,50.7,False,Bajo,4994708,Volcánico,2025-11-18
+FINCA_0090,Nariño,Cacao Premium,40.17,36.5,False,Medio,8452314,Franco-Limoso,2025-05-20
+FINCA_0091,Quindío,Café Variedad Colombia,11.68,118.2,False,Alto,4328630,Volcánico,2025-09-05
+FINCA_0092,Huila,Aguacate Hass,9.86,52.1,True,Alto,5744402,Arcilloso,2026-01-13
+FINCA_0093,Tolima,Banano Exportación,9.88,107.8,False,Bajo,4579042,Volcánico,2025-03-10
+FINCA_0094,Tolima,Café Variedad Castillo,41.1,31.4,True,Alto,8165769,Arcilloso,2026-01-19
+FINCA_0095,Tolima,Banano Exportación,33.93,29.5,True,Medio,4262081,Volcánico,2025-04-16
+FINCA_0096,Huila,Cacao Premium,27.11,8.6,False,Medio,8038655,Franco-Arenoso,2025-12-08
+FINCA_0097,Quindío,Banano Exportación,19.22,79.9,True,Bajo,1626060,Franco-Limoso,2025-11-19
+FINCA_0098,Tolima,Café Variedad Castillo,44.11,47.4,False,Bajo,6930834,Franco-Arenoso,2025-08-24
+FINCA_0099,Valle del Cauca,Cacao Premium,20.84,104.4,True,Alto,7468633,Volcánico,2025-12-29
+FINCA_0100,Santander,Banano Exportación,41.2,59.4,False,Medio,5824848,Volcánico,2025-05-16
+FINCA_0101,Huila,Cacao Premium,23.08,116.3,True,Medio,8316084,Volcánico,2025-07-05
+FINCA_0102,Huila,Café Variedad Colombia,20.09,26.3,False,Alto,4296461,Arcilloso,2025-05-18
+FINCA_0103,Quindío,Café Variedad Colombia,24.21,104.9,False,Alto,8398046,Franco-Limoso,2025-11-12
+FINCA_0104,Huila,Banano Exportación,16.47,94.3,False,Bajo,4577099,Franco-Limoso,2025-10-02
+FINCA_0105,Huila,Cacao Premium,37.89,93.7,False,Medio,4344180,Volcánico,2025-10-26
+FINCA_0106,Tolima,Café Variedad Castillo,26.13,102.2,True,Bajo,8258699,Volcánico,2025-02-27
+FINCA_0107,Quindío,Banano Exportación,13.15,92.5,False,Alto,4121578,Arcilloso,2025-12-11
+FINCA_0108,Tolima,Café Variedad Colombia,45.18,77.0,True,Medio,6087878,Franco-Arenoso,2025-11-16
+FINCA_0109,Santander,Café Variedad Colombia,20.43,20.1,True,Muy Alto,8259922,Franco-Arenoso,2025-11-21
+FINCA_0110,Nariño,Banano Exportación,28.09,8.7,True,Bajo,6566112,Franco-Limoso,2025-07-18
+FINCA_0111,Santander,Cacao Premium,45.51,110.9,False,Bajo,3172795,Arcilloso,2025-02-18
+FINCA_0112,Nariño,Café Variedad Colombia,31.96,75.9,True,Bajo,5593886,Volcánico,2025-04-11
+FINCA_0113,Tolima,Cacao Premium,7.61,96.6,True,Bajo,3754103,Franco-Limoso,2025-03-17
+FINCA_0114,Santander,Café Variedad Colombia,47.11,60.4,True,Bajo,4439362,Arcilloso,2025-04-09
+FINCA_0115,Quindío,Café Variedad Colombia,32.13,18.5,False,Muy Alto,2062060,Franco-Arenoso,2025-09-17
+FINCA_0116,Antioquia,Aguacate Hass,18.08,19.4,False,Bajo,6801358,Arcilloso,2025-04-23
+FINCA_0117,Tolima,Café Variedad Colombia,8.69,83.8,True,Bajo,3006145,Franco-Arenoso,2025-07-02
+FINCA_0118,Nariño,Café Variedad Castillo,40.11,54.5,False,Alto,4148202,Arcilloso,2025-06-12
+FINCA_0119,Valle del Cauca,Banano Exportación,31.76,28.1,False,Medio,2692931,Franco-Limoso,2025-05-13
+FINCA_0120,Nariño,Banano Exportación,27.61,61.5,True,Alto,7462162,Franco-Arenoso,2025-04-04
+FINCA_0121,Valle del Cauca,Cacao Premium,44.91,12.4,True,Bajo,6389084,Franco-Limoso,2025-12-14
+FINCA_0122,Huila,Café Variedad Colombia,39.85,71.9,False,Medio,2371522,Franco-Limoso,2025-05-03
+FINCA_0123,Santander,Café Variedad Castillo,9.28,35.9,True,Bajo,7549531,Franco-Arenoso,2025-05-04
+FINCA_0124,Valle del Cauca,Cacao Premium,16.96,96.7,False,Bajo,3042247,Franco-Arenoso,2025-12-28
+FINCA_0125,Nariño,Aguacate Hass,13.93,40.7,False,Muy Alto,8390709,Volcánico,2025-03-13
+FINCA_0126,Huila,Cacao Premium,37.71,57.4,False,Bajo,5872216,Volcánico,2025-05-31
+FINCA_0127,Antioquia,Cacao Premium,3.61,6.3,False,Medio,7967223,Volcánico,2025-06-28
+FINCA_0128,Quindío,Café Variedad Colombia,29.35,13.3,False,Medio,8027737,Franco-Limoso,2025-04-11
+FINCA_0129,Quindío,Aguacate Hass,38.6,50.1,False,Medio,3681906,Franco-Limoso,2025-08-29
+FINCA_0130,Quindío,Cacao Premium,44.08,60.2,True,Alto,2102276,Volcánico,2025-06-24
+FINCA_0131,Valle del Cauca,Café Variedad Castillo,18.42,74.0,True,Bajo,3000134,Franco-Limoso,2025-03-03
+FINCA_0132,Antioquia,Café Variedad Castillo,41.42,38.5,False,Medio,4104884,Franco-Limoso,2025-08-03
+FINCA_0133,Valle del Cauca,Banano Exportación,7.31,84.9,False,Muy Alto,7941479,Franco-Arenoso,2025-06-26
+FINCA_0134,Santander,Aguacate Hass,42.63,103.9,False,Medio,3205243,Franco-Arenoso,2025-08-03
+FINCA_0135,Valle del Cauca,Aguacate Hass,8.12,94.7,True,Muy Alto,5774692,Franco-Limoso,2025-05-16
+FINCA_0136,Antioquia,Banano Exportación,21.07,9.6,False,Bajo,5522928,Volcánico,2025-06-02
+FINCA_0137,Antioquia,Cacao Premium,40.27,60.3,True,Medio,1739779,Arcilloso,2025-03-06
+FINCA_0138,Santander,Aguacate Hass,9.2,17.1,False,Bajo,4475605,Volcánico,2025-07-01
+FINCA_0139,Antioquia,Café Variedad Castillo,13.0,32.8,False,Alto,6599154,Arcilloso,2026-01-26
+FINCA_0140,Nariño,Café Variedad Castillo,36.67,118.5,True,Muy Alto,7998302,Volcánico,2025-12-19
+FINCA_0141,Antioquia,Café Variedad Colombia,36.56,21.4,True,Bajo,6388639,Franco-Arenoso,2025-07-20
+FINCA_0142,Quindío,Aguacate Hass,32.78,62.4,False,Medio,6729658,Franco-Limoso,2025-10-30
+FINCA_0143,Nariño,Cacao Premium,35.31,76.1,False,Bajo,6875092,Franco-Limoso,2025-03-11
+FINCA_0144,Nariño,Banano Exportación,28.05,85.8,False,Medio,7789249,Franco-Arenoso,2025-09-14
+FINCA_0145,Santander,Banano Exportación,14.09,69.4,True,Medio,7685226,Arcilloso,2025-09-30
+FINCA_0146,Caldas,Cacao Premium,18.59,6.1,True,Muy Alto,2288140,Arcilloso,2025-05-15
+FINCA_0147,Caldas,Café Variedad Colombia,10.72,42.5,True,Medio,7664014,Arcilloso,2025-04-05
+FINCA_0148,Antioquia,Banano Exportación,45.61,64.5,True,Medio,5058539,Franco-Arenoso,2025-05-25
+FINCA_0149,Nariño,Aguacate Hass,30.0,15.1,True,Bajo,5246037,Arcilloso,2025-07-29
+FINCA_0150,Caldas,Café Variedad Colombia,21.24,45.3,True,Bajo,7716074,Franco-Arenoso,2026-01-02
+FINCA_0151,Caldas,Aguacate Hass,24.18,8.8,False,Bajo,3623238,Volcánico,2025-10-30
+FINCA_0152,Antioquia,Café Variedad Castillo,47.47,14.0,False,Bajo,6226276,Volcánico,2025-10-28
+FINCA_0153,Caldas,Café Variedad Colombia,9.36,50.6,True,Alto,6833968,Franco-Arenoso,2025-09-12
+FINCA_0154,Valle del Cauca,Banano Exportación,30.14,20.3,False,Medio,6088727,Franco-Limoso,2025-09-30
+FINCA_0155,Huila,Café Variedad Colombia,26.28,70.3,False,Medio,3118963,Volcánico,2025-02-17
+FINCA_0156,Santander,Café Variedad Colombia,31.35,84.3,True,Bajo,2090381,Arcilloso,2025-08-16
+FINCA_0157,Huila,Café Variedad Colombia,2.87,97.1,False,Alto,6903641,Franco-Arenoso,2025-12-06
+FINCA_0158,Antioquia,Café Variedad Colombia,43.86,28.0,True,Alto,4432235,Arcilloso,2025-04-24
+FINCA_0159,Quindío,Aguacate Hass,46.74,24.3,True,Bajo,5183909,Arcilloso,2025-02-04
+FINCA_0160,Santander,Café Variedad Castillo,29.13,17.0,False,Alto,3039600,Franco-Limoso,2025-07-14
+FINCA_0161,Antioquia,Cacao Premium,35.44,78.2,True,Medio,6583801,Arcilloso,2025-04-11
+FINCA_0162,Nariño,Café Variedad Colombia,46.28,86.2,True,Bajo,3727503,Franco-Limoso,2025-02-20
+FINCA_0163,Quindío,Banano Exportación,35.95,8.6,True,Medio,5732939,Volcánico,2026-01-01
+FINCA_0164,Huila,Café Variedad Colombia,9.32,112.7,True,Medio,4570771,Franco-Arenoso,2025-04-19
+FINCA_0165,Antioquia,Banano Exportación,29.66,11.0,True,Bajo,2643647,Arcilloso,2025-04-24
+FINCA_0166,Nariño,Aguacate Hass,31.12,67.2,True,Muy Alto,5111646,Franco-Arenoso,2025-10-26
+FINCA_0167,Santander,Banano Exportación,22.36,86.5,True,Alto,2916953,Arcilloso,2025-06-15
+FINCA_0168,Santander,Cacao Premium,37.35,105.2,True,Medio,6584387,Franco-Arenoso,2025-03-07
+FINCA_0169,Tolima,Café Variedad Castillo,46.85,87.1,False,Medio,4194245,Arcilloso,2025-08-27
+FINCA_0170,Nariño,Banano Exportación,46.43,97.2,False,Medio,5622186,Arcilloso,2025-10-23
+FINCA_0171,Valle del Cauca,Banano Exportación,23.64,44.0,False,Medio,1921280,Arcilloso,2026-01-10
+FINCA_0172,Caldas,Café Variedad Castillo,7.44,98.7,True,Medio,2409245,Arcilloso,2025-04-01
+FINCA_0173,Quindío,Cacao Premium,49.27,14.2,True,Bajo,1841207,Arcilloso,2025-03-18
+FINCA_0174,Nariño,Café Variedad Colombia,42.27,107.9,False,Medio,2730746,Arcilloso,2025-05-04
+FINCA_0175,Tolima,Banano Exportación,7.98,68.0,False,Alto,7984682,Arcilloso,2025-07-14
+FINCA_0176,Caldas,Café Variedad Castillo,46.2,99.0,False,Medio,4789791,Arcilloso,2025-11-04
+FINCA_0177,Caldas,Aguacate Hass,43.76,57.0,True,Bajo,2092632,Arcilloso,2025-04-02
+FINCA_0178,Antioquia,Café Variedad Castillo,26.9,79.0,False,Alto,5537106,Franco-Arenoso,2025-11-15
+FINCA_0179,Caldas,Aguacate Hass,30.38,65.5,False,Bajo,6255185,Franco-Limoso,2025-07-02
+FINCA_0180,Valle del Cauca,Cacao Premium,21.15,89.1,True,Bajo,6254896,Arcilloso,2025-04-06
+FINCA_0181,Santander,Café Variedad Colombia,4.63,14.4,False,Bajo,2972178,Franco-Limoso,2025-03-16
+FINCA_0182,Tolima,Café Variedad Castillo,18.09,11.9,True,Medio,2662189,Arcilloso,2025-05-08
+FINCA_0183,Caldas,Banano Exportación,40.54,33.4,True,Alto,5370426,Arcilloso,2025-07-05
+FINCA_0184,Antioquia,Cacao Premium,2.22,23.3,True,Medio,7230385,Franco-Arenoso,2025-11-19
+FINCA_0185,Valle del Cauca,Café Variedad Castillo,18.01,105.3,False,Bajo,1914299,Volcánico,2025-03-09
+FINCA_0186,Huila,Banano Exportación,21.11,30.2,False,Alto,7285522,Volcánico,2025-10-23
+FINCA_0187,Santander,Café Variedad Castillo,27.79,117.2,True,Alto,3881486,Franco-Arenoso,2025-03-12
+FINCA_0188,Santander,Aguacate Hass,46.15,43.7,False,Alto,5176158,Franco-Limoso,2025-10-07
+FINCA_0189,Tolima,Café Variedad Castillo,18.62,25.9,False,Bajo,8213070,Volcánico,2025-05-05
+FINCA_0190,Santander,Café Variedad Castillo,18.65,95.8,False,Medio,6925923,Franco-Arenoso,2026-01-16
+FINCA_0191,Caldas,Café Variedad Castillo,37.4,80.8,False,Muy Alto,5661900,Franco-Arenoso,2025-11-29
+FINCA_0192,Antioquia,Cacao Premium,23.71,62.3,True,Alto,6893455,Volcánico,2025-04-11
+FINCA_0193,Santander,Café Variedad Castillo,12.78,68.9,False,Bajo,1625438,Franco-Limoso,2025-08-18
+FINCA_0194,Santander,Banano Exportación,23.72,87.7,True,Bajo,5270183,Franco-Arenoso,2025-07-25
+FINCA_0195,Huila,Aguacate Hass,8.76,31.3,True,Medio,3417043,Arcilloso,2025-06-05
+FINCA_0196,Huila,Aguacate Hass,10.47,119.6,False,Muy Alto,6717196,Franco-Limoso,2025-07-11
+FINCA_0197,Quindío,Café Variedad Castillo,25.92,117.1,True,Medio,8055984,Franco-Limoso,2025-04-23
+FINCA_0198,Valle del Cauca,Cacao Premium,22.11,79.8,False,Medio,6936272,Volcánico,2026-01-12
+FINCA_0199,Caldas,Cacao Premium,45.91,27.9,False,Bajo,8199744,Volcánico,2025-04-27
+FINCA_0200,Santander,Banano Exportación,19.39,83.2,True,Medio,3699391,Arcilloso,2025-07-29
+FINCA_0201,Nariño,Café Variedad Castillo,29.87,13.3,True,Alto,2135719,Franco-Arenoso,2025-02-28
+FINCA_0202,Santander,Aguacate Hass,32.35,8.5,True,Medio,7307678,Volcánico,2025-10-25
+FINCA_0203,Antioquia,Cacao Premium,2.63,34.6,True,Alto,4301445,Volcánico,2025-09-14
+FINCA_0204,Quindío,Café Variedad Castillo,33.85,58.2,False,Muy Alto,2308258,Franco-Limoso,2025-05-21
+FINCA_0205,Valle del Cauca,Cacao Premium,10.55,104.9,False,Bajo,6024474,Volcánico,2025-02-08
+FINCA_0206,Nariño,Cacao Premium,48.13,88.6,False,Medio,7913124,Volcánico,2025-03-15
+FINCA_0207,Quindío,Aguacate Hass,9.14,90.4,True,Bajo,4364140,Volcánico,2025-11-15
+FINCA_0208,Tolima,Café Variedad Colombia,21.9,53.9,True,Alto,5064462,Volcánico,2026-01-17
+FINCA_0209,Valle del Cauca,Banano Exportación,6.1,44.8,True,Medio,8339789,Franco-Limoso,2025-09-29
+FINCA_0210,Santander,Banano Exportación,49.85,47.7,False,Medio,1681948,Arcilloso,2025-09-21
+FINCA_0211,Santander,Aguacate Hass,26.11,118.6,True,Alto,4082814,Arcilloso,2025-05-20
+FINCA_0212,Valle del Cauca,Cacao Premium,30.58,9.6,False,Medio,8405846,Franco-Arenoso,2025-08-15
+FINCA_0213,Santander,Café Variedad Castillo,5.22,104.7,True,Muy Alto,8105519,Volcánico,2025-02-03
+FINCA_0214,Caldas,Cacao Premium,38.0,71.5,False,Medio,5269457,Franco-Limoso,2025-09-21
+FINCA_0215,Valle del Cauca,Aguacate Hass,12.08,55.4,False,Bajo,2706751,Franco-Arenoso,2025-03-31
+FINCA_0216,Quindío,Banano Exportación,45.11,88.4,True,Medio,8041333,Franco-Arenoso,2025-10-05
+FINCA_0217,Valle del Cauca,Cacao Premium,11.85,61.0,True,Alto,2453692,Arcilloso,2025-08-21
+FINCA_0218,Nariño,Banano Exportación,11.15,105.4,False,Medio,6879797,Franco-Limoso,2025-02-10
+FINCA_0219,Santander,Café Variedad Castillo,3.75,108.6,False,Alto,1717770,Franco-Limoso,2025-08-03
+FINCA_0220,Caldas,Banano Exportación,24.66,53.5,True,Muy Alto,5599906,Franco-Limoso,2025-09-03
+FINCA_0221,Caldas,Banano Exportación,29.11,36.8,True,Bajo,6336917,Arcilloso,2025-08-19
+FINCA_0222,Tolima,Café Variedad Colombia,5.15,73.1,False,Muy Alto,8469129,Arcilloso,2025-08-06
+FINCA_0223,Quindío,Café Variedad Colombia,39.23,109.9,True,Bajo,3937245,Arcilloso,2025-04-20
+FINCA_0224,Huila,Café Variedad Colombia,23.76,29.2,False,Bajo,7056175,Arcilloso,2025-05-21
+FINCA_0225,Huila,Banano Exportación,27.17,76.6,False,Bajo,7677995,Arcilloso,2025-06-11
+FINCA_0226,Valle del Cauca,Aguacate Hass,23.16,77.6,True,Alto,7410184,Volcánico,2026-01-27
+FINCA_0227,Tolima,Banano Exportación,21.24,89.3,True,Medio,7582199,Volcánico,2025-07-29
+FINCA_0228,Antioquia,Aguacate Hass,28.86,20.1,True,Bajo,4202882,Franco-Limoso,2025-06-22
+FINCA_0229,Valle del Cauca,Aguacate Hass,9.45,87.3,True,Medio,6801533,Franco-Arenoso,2025-11-03
+FINCA_0230,Tolima,Café Variedad Colombia,10.73,109.5,True,Medio,3290008,Franco-Limoso,2025-03-27
+FINCA_0231,Quindío,Cacao Premium,43.37,25.7,False,Bajo,3326525,Franco-Arenoso,2025-11-13
+FINCA_0232,Quindío,Café Variedad Castillo,47.41,32.3,False,Alto,6013070,Arcilloso,2025-09-01
+FINCA_0233,Quindío,Café Variedad Colombia,19.92,116.7,True,Alto,2838530,Franco-Arenoso,2025-05-07
+FINCA_0234,Quindío,Café Variedad Colombia,15.0,25.8,True,Medio,7651537,Franco-Limoso,2025-10-14
+FINCA_0235,Quindío,Cacao Premium,32.91,103.3,True,Muy Alto,5966951,Franco-Limoso,2025-03-17
+FINCA_0236,Tolima,Café Variedad Castillo,21.62,61.6,False,Medio,3681913,Franco-Arenoso,2025-09-17
+FINCA_0237,Tolima,Banano Exportación,3.22,33.4,True,Muy Alto,2978768,Volcánico,2026-01-20
+FINCA_0238,Caldas,Banano Exportación,9.5,105.1,True,Medio,3065213,Arcilloso,2026-01-25
+FINCA_0239,Nariño,Café Variedad Colombia,36.37,56.2,False,Medio,4263398,Arcilloso,2025-09-13
+FINCA_0240,Huila,Café Variedad Castillo,33.63,64.2,False,Bajo,6624674,Franco-Limoso,2025-11-22
+FINCA_0241,Santander,Café Variedad Colombia,3.3,46.3,True,Alto,8120224,Volcánico,2025-05-24
+FINCA_0242,Quindío,Aguacate Hass,12.65,73.2,True,Medio,2188152,Franco-Arenoso,2025-05-18
+FINCA_0243,Antioquia,Café Variedad Colombia,13.09,23.8,True,Bajo,1902980,Arcilloso,2025-10-05
+FINCA_0244,Santander,Café Variedad Colombia,34.25,50.0,False,Bajo,2538336,Volcánico,2025-10-13
+FINCA_0245,Tolima,Banano Exportación,2.95,116.5,True,Medio,4378350,Arcilloso,2025-05-25
+FINCA_0246,Antioquia,Banano Exportación,7.0,34.7,True,Medio,2668932,Volcánico,2026-01-20
+FINCA_0247,Antioquia,Banano Exportación,40.4,80.5,True,Alto,7834183,Volcánico,2025-06-08
+FINCA_0248,Antioquia,Aguacate Hass,10.57,42.4,False,Alto,8132071,Franco-Limoso,2025-05-16
+FINCA_0249,Caldas,Banano Exportación,33.33,93.9,False,Bajo,7275236,Arcilloso,2025-05-11
+FINCA_0250,Tolima,Café Variedad Castillo,13.43,20.1,True,Alto,8432667,Franco-Arenoso,2025-04-09
+FINCA_0251,Antioquia,Cacao Premium,6.77,116.5,True,Bajo,2949087,Franco-Limoso,2025-06-06
+FINCA_0252,Quindío,Café Variedad Castillo,13.67,57.2,False,Alto,4031528,Franco-Limoso,2026-01-28
+FINCA_0253,Valle del Cauca,Café Variedad Castillo,36.67,32.1,False,Alto,3608542,Franco-Arenoso,2025-05-03
+FINCA_0254,Antioquia,Banano Exportación,43.07,13.5,False,Medio,8422496,Franco-Limoso,2025-10-03
+FINCA_0255,Caldas,Cacao Premium,41.85,24.5,False,Alto,2437635,Volcánico,2025-07-23
+FINCA_0256,Santander,Cacao Premium,21.06,64.8,False,Medio,5002626,Volcánico,2025-09-12
+FINCA_0257,Tolima,Cacao Premium,34.07,43.8,False,Medio,2886689,Arcilloso,2025-05-30
+FINCA_0258,Nariño,Aguacate Hass,11.84,100.3,False,Alto,5316126,Arcilloso,2025-11-12
+FINCA_0259,Caldas,Banano Exportación,16.07,54.6,False,Medio,4566983,Franco-Arenoso,2025-07-20
+FINCA_0260,Antioquia,Cacao Premium,45.02,33.6,False,Medio,4346230,Arcilloso,2025-04-05
+FINCA_0261,Tolima,Aguacate Hass,2.62,76.0,True,Medio,7082088,Volcánico,2025-08-02
+FINCA_0262,Valle del Cauca,Café Variedad Colombia,6.1,86.3,True,Alto,3618433,Franco-Arenoso,2025-02-13
+FINCA_0263,Antioquia,Café Variedad Colombia,11.98,24.2,True,Medio,7845645,Franco-Arenoso,2025-04-06
+FINCA_0264,Caldas,Aguacate Hass,3.27,24.3,False,Bajo,5956397,Arcilloso,2025-12-18
+FINCA_0265,Huila,Aguacate Hass,10.71,9.2,True,Alto,7053535,Volcánico,2025-11-10
+FINCA_0266,Quindío,Banano Exportación,29.99,89.7,False,Alto,5178621,Franco-Arenoso,2025-09-02
+FINCA_0267,Nariño,Banano Exportación,22.23,81.3,False,Bajo,6056766,Volcánico,2025-07-31
+FINCA_0268,Santander,Café Variedad Colombia,44.85,59.6,True,Bajo,8186053,Volcánico,2025-06-24
+FINCA_0269,Caldas,Cacao Premium,41.24,102.1,False,Bajo,7727018,Volcánico,2025-12-16
+FINCA_0270,Tolima,Café Variedad Colombia,18.41,97.7,True,Medio,6500546,Arcilloso,2025-02-03
+FINCA_0271,Nariño,Cacao Premium,14.45,72.3,True,Medio,2797991,Franco-Limoso,2025-07-26
+FINCA_0272,Nariño,Cacao Premium,20.23,104.9,True,Alto,8471138,Franco-Limoso,2025-07-26
+FINCA_0273,Nariño,Banano Exportación,30.33,28.7,False,Medio,6784749,Franco-Arenoso,2025-03-14
+FINCA_0274,Antioquia,Café Variedad Castillo,14.87,17.9,True,Medio,8348699,Volcánico,2025-08-24
+FINCA_0275,Quindío,Café Variedad Castillo,31.96,36.0,False,Medio,5231404,Arcilloso,2025-04-29
+FINCA_0276,Antioquia,Aguacate Hass,21.65,11.6,True,Alto,3314188,Volcánico,2025-02-14
+FINCA_0277,Tolima,Banano Exportación,28.5,66.1,True,Medio,3607359,Volcánico,2026-01-02
+FINCA_0278,Antioquia,Cacao Premium,22.93,112.7,True,Muy Alto,1718401,Arcilloso,2025-03-15
+FINCA_0279,Huila,Café Variedad Castillo,16.13,9.5,False,Medio,2485132,Franco-Limoso,2025-05-26
+FINCA_0280,Quindío,Cacao Premium,47.53,19.0,False,Bajo,1659292,Volcánico,2025-12-16
+FINCA_0281,Quindío,Café Variedad Castillo,38.65,57.0,False,Medio,7220146,Volcánico,2025-11-20
+FINCA_0282,Tolima,Café Variedad Castillo,8.73,112.4,True,Medio,6191066,Franco-Limoso,2025-03-09
+FINCA_0283,Santander,Café Variedad Castillo,43.69,41.4,True,Medio,4667759,Arcilloso,2025-11-07
+FINCA_0284,Huila,Banano Exportación,25.4,63.3,False,Bajo,1963937,Franco-Arenoso,2025-06-13
+FINCA_0285,Caldas,Café Variedad Colombia,44.94,9.8,False,Bajo,4464391,Franco-Limoso,2025-09-08
+FINCA_0286,Antioquia,Cacao Premium,40.39,22.1,False,Alto,8387056,Franco-Arenoso,2025-11-19
+FINCA_0287,Valle del Cauca,Banano Exportación,22.41,118.5,False,Bajo,4181206,Franco-Arenoso,2025-07-30
+FINCA_0288,Antioquia,Banano Exportación,3.08,116.0,False,Alto,2692097,Franco-Limoso,2025-08-12
+FINCA_0289,Nariño,Banano Exportación,14.9,5.6,False,Bajo,8143433,Volcánico,2025-09-03
+FINCA_0290,Antioquia,Banano Exportación,28.0,114.5,True,Medio,1687771,Franco-Arenoso,2025-04-01
+FINCA_0291,Caldas,Banano Exportación,32.41,78.5,False,Medio,1737199,Franco-Arenoso,2025-07-08
+FINCA_0292,Antioquia,Aguacate Hass,14.38,104.8,True,Medio,7503899,Arcilloso,2026-01-17
+FINCA_0293,Huila,Cacao Premium,8.69,57.3,True,Medio,4357281,Volcánico,2025-10-11
+FINCA_0294,Huila,Banano Exportación,42.08,64.3,False,Bajo,4232481,Franco-Arenoso,2025-09-23
+FINCA_0295,Quindío,Cacao Premium,49.25,61.2,False,Bajo,6334777,Arcilloso,2025-04-18
+FINCA_0296,Tolima,Aguacate Hass,27.23,81.7,True,Medio,3774316,Volcánico,2025-09-03
+FINCA_0297,Santander,Aguacate Hass,10.24,21.1,False,Medio,5102615,Franco-Limoso,2025-03-27
+FINCA_0298,Valle del Cauca,Cacao Premium,15.07,8.4,False,Muy Alto,3083214,Franco-Limoso,2025-04-06
+FINCA_0299,Nariño,Café Variedad Castillo,2.88,40.4,True,Alto,2251518,Arcilloso,2025-10-14
+FINCA_0300,Antioquia,Café Variedad Colombia,45.89,86.0,True,Alto,2013313,Franco-Limoso,2025-12-18
+FINCA_0301,Antioquia,Café Variedad Castillo,7.65,28.2,True,Alto,5431586,Franco-Arenoso,2025-10-22
+FINCA_0302,Caldas,Café Variedad Castillo,29.67,82.4,False,Medio,4714215,Volcánico,2025-09-17
+FINCA_0303,Tolima,Café Variedad Castillo,15.15,116.5,True,Bajo,7940150,Franco-Arenoso,2025-09-16
+FINCA_0304,Huila,Banano Exportación,28.6,15.8,False,Muy Alto,7915309,Franco-Arenoso,2025-08-06
+FINCA_0305,Valle del Cauca,Aguacate Hass,33.27,82.3,True,Medio,4960989,Franco-Limoso,2025-09-19
+FINCA_0306,Quindío,Café Variedad Castillo,41.83,56.0,True,Medio,3832214,Franco-Arenoso,2025-05-31
+FINCA_0307,Huila,Aguacate Hass,11.91,104.8,True,Bajo,3830229,Franco-Limoso,2025-07-15
+FINCA_0308,Nariño,Cacao Premium,2.53,25.4,False,Medio,6581820,Volcánico,2025-03-10
+FINCA_0309,Tolima,Café Variedad Colombia,8.57,84.7,False,Medio,6766662,Volcánico,2025-03-22
+FINCA_0310,Nariño,Cacao Premium,45.2,101.4,True,Alto,3363462,Franco-Arenoso,2025-02-22
+FINCA_0311,Santander,Cacao Premium,43.95,113.6,True,Medio,7597216,Arcilloso,2025-09-06
+FINCA_0312,Quindío,Banano Exportación,30.68,83.6,True,Medio,2154224,Franco-Limoso,2025-07-05
+FINCA_0313,Santander,Café Variedad Colombia,30.82,62.2,False,Muy Alto,3750397,Franco-Limoso,2025-12-17
+FINCA_0314,Caldas,Cacao Premium,33.92,76.1,True,Bajo,3499284,Franco-Arenoso,2025-07-12
+FINCA_0315,Nariño,Cacao Premium,10.42,104.9,False,Medio,3501676,Franco-Limoso,2026-01-09
+FINCA_0316,Caldas,Café Variedad Colombia,45.89,70.6,True,Bajo,3184532,Franco-Limoso,2025-02-23
+FINCA_0317,Antioquia,Café Variedad Colombia,22.1,8.5,True,Alto,1954418,Arcilloso,2025-06-29
+FINCA_0318,Santander,Cacao Premium,20.39,112.1,True,Muy Alto,7225496,Arcilloso,2025-07-04
+FINCA_0319,Tolima,Café Variedad Colombia,26.91,84.3,True,Bajo,2972542,Franco-Arenoso,2025-03-30
+FINCA_0320,Nariño,Cacao Premium,4.25,82.8,True,Alto,5973014,Arcilloso,2025-10-03
+FINCA_0321,Valle del Cauca,Cacao Premium,9.98,29.8,True,Bajo,6356854,Franco-Arenoso,2025-11-22
+FINCA_0322,Quindío,Banano Exportación,37.43,80.8,False,Muy Alto,2062621,Volcánico,2025-02-13
+FINCA_0323,Huila,Café Variedad Castillo,5.97,50.3,True,Alto,5029801,Franco-Arenoso,2025-11-28
+FINCA_0324,Tolima,Cacao Premium,30.95,79.9,False,Alto,6308163,Volcánico,2026-01-11
+FINCA_0325,Tolima,Aguacate Hass,13.78,17.3,True,Bajo,7784851,Franco-Arenoso,2025-10-11
+FINCA_0326,Caldas,Café Variedad Castillo,20.69,80.7,True,Muy Alto,3098099,Franco-Limoso,2025-11-02
+FINCA_0327,Santander,Café Variedad Castillo,15.86,119.9,False,Alto,5694463,Arcilloso,2026-01-02
+FINCA_0328,Nariño,Café Variedad Castillo,19.07,10.5,True,Medio,5313233,Volcánico,2025-07-03
+FINCA_0329,Nariño,Banano Exportación,36.51,117.4,False,Alto,2711569,Franco-Arenoso,2025-02-27
+FINCA_0330,Antioquia,Cacao Premium,16.26,51.8,False,Bajo,6061307,Arcilloso,2025-07-03
+FINCA_0331,Antioquia,Banano Exportación,29.19,105.1,True,Alto,2695885,Franco-Arenoso,2025-07-11
+FINCA_0332,Quindío,Cacao Premium,24.85,95.0,False,Bajo,2656083,Arcilloso,2026-01-02
+FINCA_0333,Caldas,Banano Exportación,33.86,70.2,False,Alto,3474324,Arcilloso,2025-09-06
+FINCA_0334,Tolima,Banano Exportación,46.97,89.9,True,Medio,6757623,Franco-Arenoso,2026-01-27
+FINCA_0335,Nariño,Aguacate Hass,37.16,106.0,False,Bajo,5398190,Volcánico,2025-08-18
+FINCA_0336,Valle del Cauca,Banano Exportación,12.32,51.5,True,Bajo,4888445,Volcánico,2025-11-08
+FINCA_0337,Caldas,Café Variedad Colombia,3.5,42.6,True,Bajo,4242974,Franco-Limoso,2026-01-18
+FINCA_0338,Quindío,Aguacate Hass,14.59,81.8,True,Medio,4992099,Arcilloso,2025-03-09
+FINCA_0339,Quindío,Banano Exportación,30.56,97.9,True,Medio,2779180,Franco-Limoso,2025-08-03
+FINCA_0340,Caldas,Café Variedad Castillo,4.47,92.7,False,Medio,4833178,Franco-Limoso,2025-07-10
+FINCA_0341,Quindío,Café Variedad Colombia,25.83,96.7,True,Bajo,6031211,Franco-Arenoso,2025-10-30
+FINCA_0342,Caldas,Café Variedad Colombia,30.65,55.1,True,Bajo,4084182,Franco-Arenoso,2025-12-18
+FINCA_0343,Huila,Café Variedad Colombia,18.04,99.1,False,Alto,3308286,Franco-Arenoso,2025-06-04
+FINCA_0344,Caldas,Aguacate Hass,39.0,18.8,True,Bajo,6099757,Arcilloso,2025-06-01
+FINCA_0345,Santander,Banano Exportación,7.12,67.6,True,Muy Alto,6365313,Franco-Arenoso,2025-05-03
+FINCA_0346,Caldas,Banano Exportación,5.61,5.7,False,Alto,5863089,Franco-Arenoso,2025-09-02
+FINCA_0347,Quindío,Café Variedad Castillo,36.95,42.3,False,Medio,7995991,Arcilloso,2025-04-21
+FINCA_0348,Nariño,Café Variedad Castillo,25.78,47.1,False,Medio,4297921,Arcilloso,2025-05-17
+FINCA_0349,Santander,Café Variedad Colombia,35.04,50.6,False,Alto,5874142,Volcánico,2025-11-14
+FINCA_0350,Quindío,Café Variedad Castillo,22.87,85.0,False,Bajo,8361898,Franco-Arenoso,2025-06-30
+FINCA_0351,Antioquia,Aguacate Hass,13.83,49.7,False,Bajo,1769160,Franco-Arenoso,2025-09-13
+FINCA_0352,Antioquia,Banano Exportación,41.32,56.6,False,Bajo,4069931,Franco-Arenoso,2025-08-12
+FINCA_0353,Nariño,Café Variedad Colombia,40.37,32.3,True,Alto,1941904,Volcánico,2025-11-19
+FINCA_0354,Nariño,Café Variedad Castillo,35.35,47.9,False,Bajo,6570414,Franco-Arenoso,2025-05-16
+FINCA_0355,Santander,Aguacate Hass,15.06,31.1,False,Medio,6592792,Volcánico,2025-05-31
+FINCA_0356,Huila,Aguacate Hass,30.33,13.4,False,Muy Alto,2078526,Franco-Limoso,2025-06-30
+FINCA_0357,Nariño,Café Variedad Castillo,19.33,74.4,True,Alto,8112208,Volcánico,2025-08-08
+FINCA_0358,Antioquia,Banano Exportación,6.4,81.8,True,Medio,7356249,Franco-Limoso,2025-11-04
+FINCA_0359,Caldas,Café Variedad Castillo,46.03,76.2,False,Bajo,2337393,Franco-Arenoso,2025-09-06
+FINCA_0360,Quindío,Café Variedad Colombia,8.57,58.3,False,Alto,4845503,Franco-Limoso,2025-02-18
+FINCA_0361,Antioquia,Café Variedad Castillo,47.61,48.7,False,Medio,6634544,Volcánico,2025-05-12
+FINCA_0362,Antioquia,Aguacate Hass,23.41,104.3,True,Bajo,2314422,Arcilloso,2025-09-27
+FINCA_0363,Huila,Café Variedad Castillo,10.89,64.7,True,Bajo,6805431,Franco-Limoso,2025-04-24
+FINCA_0364,Santander,Banano Exportación,28.01,60.1,False,Muy Alto,7718545,Franco-Limoso,2025-10-10
+FINCA_0365,Santander,Cacao Premium,43.9,7.9,True,Medio,2234983,Franco-Arenoso,2026-01-03
+FINCA_0366,Tolima,Café Variedad Castillo,37.15,44.2,False,Alto,3763429,Volcánico,2025-12-21
+FINCA_0367,Huila,Banano Exportación,40.71,48.7,True,Alto,4635812,Franco-Limoso,2025-09-12
+FINCA_0368,Caldas,Banano Exportación,33.62,50.9,True,Medio,5775115,Franco-Limoso,2025-08-15
+FINCA_0369,Santander,Aguacate Hass,35.23,71.7,False,Medio,4376280,Franco-Limoso,2025-06-20
+FINCA_0370,Quindío,Banano Exportación,42.76,66.4,False,Medio,4438687,Franco-Limoso,2025-06-22
+FINCA_0371,Nariño,Banano Exportación,13.98,74.9,False,Medio,6653435,Arcilloso,2026-01-26
+FINCA_0372,Huila,Banano Exportación,25.49,93.0,False,Medio,2916842,Volcánico,2026-01-16
+FINCA_0373,Nariño,Banano Exportación,12.62,98.5,True,Alto,3831256,Franco-Arenoso,2025-12-03
+FINCA_0374,Antioquia,Café Variedad Colombia,49.41,87.6,True,Medio,5189024,Franco-Arenoso,2025-07-20
+FINCA_0375,Quindío,Café Variedad Colombia,47.31,114.9,True,Alto,5896650,Arcilloso,2025-12-20
+FINCA_0376,Quindío,Aguacate Hass,3.89,7.1,False,Medio,5202418,Volcánico,2025-06-10
+FINCA_0377,Antioquia,Café Variedad Castillo,35.87,27.5,True,Medio,3781608,Franco-Limoso,2025-05-21
+FINCA_0378,Huila,Banano Exportación,46.41,5.9,False,Medio,5430010,Arcilloso,2025-09-04
+FINCA_0379,Antioquia,Café Variedad Castillo,10.67,79.5,True,Medio,7141889,Volcánico,2025-12-19
+FINCA_0380,Nariño,Café Variedad Castillo,29.26,108.3,False,Alto,5141771,Franco-Limoso,2025-07-14
+FINCA_0381,Tolima,Aguacate Hass,45.94,33.0,False,Bajo,7928099,Arcilloso,2025-07-11
+FINCA_0382,Quindío,Banano Exportación,3.63,111.6,True,Medio,5579441,Volcánico,2025-11-09
+FINCA_0383,Valle del Cauca,Banano Exportación,35.48,11.9,False,Bajo,6856430,Franco-Arenoso,2025-05-21
+FINCA_0384,Valle del Cauca,Cacao Premium,16.27,112.5,False,Medio,8275602,Franco-Arenoso,2025-09-19
+FINCA_0385,Nariño,Café Variedad Castillo,46.37,45.4,True,Medio,2460652,Volcánico,2025-08-28
+FINCA_0386,Caldas,Café Variedad Castillo,48.61,16.7,False,Medio,3688370,Franco-Arenoso,2025-08-14
+FINCA_0387,Santander,Café Variedad Colombia,47.32,60.9,False,Muy Alto,3048485,Volcánico,2025-05-13
+FINCA_0388,Antioquia,Cacao Premium,24.76,34.5,False,Medio,3067343,Franco-Limoso,2026-01-09
+FINCA_0389,Antioquia,Café Variedad Colombia,43.38,37.8,True,Alto,4825495,Volcánico,2025-10-08
+FINCA_0390,Caldas,Café Variedad Colombia,42.54,40.3,True,Medio,6601515,Franco-Limoso,2025-07-04
+FINCA_0391,Caldas,Café Variedad Colombia,17.32,97.3,False,Medio,7134738,Arcilloso,2025-02-17
+FINCA_0392,Nariño,Aguacate Hass,41.79,67.0,True,Bajo,7508228,Volcánico,2025-01-30
+FINCA_0393,Nariño,Aguacate Hass,3.78,40.8,False,Bajo,4885744,Arcilloso,2025-10-31
+FINCA_0394,Caldas,Café Variedad Colombia,30.62,75.2,False,Medio,7823897,Franco-Arenoso,2025-07-24
+FINCA_0395,Quindío,Cacao Premium,13.04,87.4,False,Medio,6980918,Franco-Limoso,2025-09-21
+FINCA_0396,Nariño,Café Variedad Castillo,7.79,36.4,False,Bajo,8485945,Volcánico,2025-02-09
+FINCA_0397,Tolima,Cacao Premium,5.69,52.6,False,Bajo,2255612,Arcilloso,2025-06-14
+FINCA_0398,Nariño,Banano Exportación,35.42,19.0,True,Bajo,5494528,Franco-Limoso,2025-03-17
+FINCA_0399,Antioquia,Aguacate Hass,18.31,25.8,False,Muy Alto,3576475,Franco-Limoso,2026-01-09
+FINCA_0400,Nariño,Café Variedad Castillo,36.79,83.3,True,Medio,3641912,Franco-Arenoso,2025-05-10
+FINCA_0401,Quindío,Café Variedad Castillo,5.14,25.9,True,Medio,4644311,Franco-Arenoso,2025-10-29
+FINCA_0402,Caldas,Banano Exportación,17.13,65.4,False,Bajo,1785622,Franco-Limoso,2025-03-13
+FINCA_0403,Antioquia,Banano Exportación,27.9,86.5,False,Medio,3462889,Franco-Limoso,2025-05-16
+FINCA_0404,Nariño,Café Variedad Colombia,39.95,17.3,True,Bajo,3406862,Volcánico,2025-09-05
+FINCA_0405,Quindío,Aguacate Hass,17.3,70.2,True,Bajo,5526390,Franco-Limoso,2025-06-01
+FINCA_0406,Tolima,Aguacate Hass,32.04,34.5,True,Medio,2896436,Volcánico,2025-09-02
+FINCA_0407,Nariño,Cacao Premium,44.53,115.7,False,Bajo,2167540,Franco-Limoso,2025-10-22
+FINCA_0408,Quindío,Café Variedad Colombia,31.56,60.6,True,Bajo,3695690,Franco-Arenoso,2025-12-26
+FINCA_0409,Tolima,Café Variedad Colombia,13.18,97.7,False,Bajo,3088236,Volcánico,2025-04-09
+FINCA_0410,Caldas,Café Variedad Colombia,3.17,68.3,False,Bajo,6510532,Arcilloso,2026-01-13
+FINCA_0411,Nariño,Café Variedad Colombia,43.76,10.0,False,Bajo,6670080,Franco-Arenoso,2025-12-01
+FINCA_0412,Tolima,Aguacate Hass,3.02,77.8,True,Medio,6205815,Volcánico,2025-11-20
+FINCA_0413,Antioquia,Aguacate Hass,43.99,114.4,False,Alto,6963915,Volcánico,2025-05-16
+FINCA_0414,Caldas,Café Variedad Colombia,27.39,74.2,False,Medio,4482410,Arcilloso,2025-12-27
+FINCA_0415,Antioquia,Cacao Premium,47.08,99.2,False,Medio,8174192,Volcánico,2025-02-15
+FINCA_0416,Valle del Cauca,Café Variedad Castillo,40.34,106.7,False,Bajo,2904355,Franco-Limoso,2025-12-26
+FINCA_0417,Huila,Café Variedad Castillo,49.9,31.2,False,Muy Alto,7378190,Arcilloso,2025-12-04
+FINCA_0418,Nariño,Cacao Premium,18.83,29.4,True,Medio,4175480,Franco-Arenoso,2025-05-19
+FINCA_0419,Tolima,Café Variedad Colombia,38.83,75.3,False,Bajo,6556093,Franco-Arenoso,2025-03-03
+FINCA_0420,Huila,Aguacate Hass,21.29,52.3,False,Medio,7469608,Franco-Limoso,2025-11-28
+FINCA_0421,Huila,Café Variedad Castillo,25.03,101.6,True,Bajo,4924083,Franco-Arenoso,2025-04-10
+FINCA_0422,Tolima,Banano Exportación,32.12,108.5,False,Medio,3964722,Volcánico,2025-09-12
+FINCA_0423,Caldas,Banano Exportación,43.94,45.6,True,Medio,8059442,Volcánico,2026-01-15
+FINCA_0424,Nariño,Cacao Premium,49.24,32.2,False,Alto,8247787,Franco-Limoso,2025-06-27
+FINCA_0425,Valle del Cauca,Café Variedad Colombia,38.88,94.8,True,Medio,7596164,Franco-Arenoso,2025-04-24
+FINCA_0426,Antioquia,Café Variedad Castillo,22.05,36.6,True,Alto,7130761,Franco-Arenoso,2025-07-20
+FINCA_0427,Quindío,Café Variedad Colombia,22.23,99.6,False,Muy Alto,7050992,Franco-Limoso,2025-03-10
+FINCA_0428,Antioquia,Café Variedad Castillo,37.4,53.7,False,Bajo,4401092,Arcilloso,2025-08-23
+FINCA_0429,Quindío,Cacao Premium,13.46,81.8,False,Bajo,3750229,Franco-Arenoso,2025-07-25
+FINCA_0430,Antioquia,Cacao Premium,7.3,16.0,True,Medio,3022534,Arcilloso,2025-08-23
+FINCA_0431,Tolima,Banano Exportación,19.02,76.7,True,Medio,3222907,Franco-Arenoso,2025-04-30
+FINCA_0432,Valle del Cauca,Café Variedad Colombia,15.79,57.0,True,Medio,4015967,Franco-Arenoso,2025-06-12
+FINCA_0433,Nariño,Banano Exportación,16.22,72.5,False,Muy Alto,6175112,Franco-Arenoso,2025-09-04
+FINCA_0434,Quindío,Café Variedad Colombia,13.21,24.3,True,Alto,7334082,Franco-Arenoso,2025-06-18
+FINCA_0435,Nariño,Banano Exportación,4.02,89.7,True,Medio,4370574,Volcánico,2025-07-30
+FINCA_0436,Nariño,Aguacate Hass,2.86,104.2,False,Medio,8382799,Arcilloso,2025-09-08
+FINCA_0437,Nariño,Aguacate Hass,49.41,29.9,True,Alto,8421983,Arcilloso,2025-11-18
+FINCA_0438,Santander,Aguacate Hass,22.53,16.0,True,Muy Alto,8026925,Franco-Arenoso,2026-01-27
+FINCA_0439,Caldas,Aguacate Hass,20.45,7.7,False,Alto,6865986,Franco-Arenoso,2025-04-08
+FINCA_0440,Antioquia,Café Variedad Castillo,34.62,78.8,True,Bajo,4388939,Arcilloso,2026-01-10
+FINCA_0441,Nariño,Aguacate Hass,12.48,74.8,False,Medio,5486280,Volcánico,2025-10-30
+FINCA_0442,Antioquia,Cacao Premium,47.6,67.9,False,Bajo,8259291,Franco-Limoso,2025-10-06
+FINCA_0443,Nariño,Cacao Premium,39.74,31.7,False,Bajo,8091942,Franco-Limoso,2026-01-14
+FINCA_0444,Quindío,Café Variedad Castillo,6.29,50.0,False,Bajo,3544940,Arcilloso,2025-03-11
+FINCA_0445,Caldas,Aguacate Hass,22.04,73.4,False,Medio,3599409,Franco-Arenoso,2025-05-12
+FINCA_0446,Caldas,Aguacate Hass,44.2,62.1,True,Medio,7032388,Franco-Arenoso,2025-08-02
+FINCA_0447,Tolima,Aguacate Hass,47.35,118.6,True,Bajo,4672382,Volcánico,2025-12-19
+FINCA_0448,Santander,Banano Exportación,24.44,20.7,False,Medio,5381857,Franco-Limoso,2025-07-27
+FINCA_0449,Tolima,Café Variedad Colombia,31.44,84.9,False,Medio,6037871,Volcánico,2026-01-23
+FINCA_0450,Tolima,Banano Exportación,10.02,51.5,True,Medio,1791464,Franco-Limoso,2025-06-30
+FINCA_0451,Tolima,Café Variedad Colombia,49.58,54.2,False,Bajo,6239400,Arcilloso,2025-11-28
+FINCA_0452,Tolima,Aguacate Hass,13.12,87.5,False,Medio,4173829,Franco-Limoso,2025-10-19
+FINCA_0453,Tolima,Aguacate Hass,47.25,84.6,False,Alto,8280362,Volcánico,2025-07-09
+FINCA_0454,Valle del Cauca,Banano Exportación,33.18,119.0,True,Bajo,1618581,Volcánico,2025-12-15
+FINCA_0455,Caldas,Banano Exportación,31.17,19.8,True,Bajo,6870807,Volcánico,2026-01-20
+FINCA_0456,Tolima,Café Variedad Colombia,26.61,17.0,False,Medio,6777653,Arcilloso,2025-03-12
+FINCA_0457,Nariño,Cacao Premium,13.07,88.3,False,Muy Alto,5352256,Franco-Limoso,2025-12-23
+FINCA_0458,Caldas,Café Variedad Colombia,10.47,71.5,True,Medio,7163843,Franco-Limoso,2026-01-05
+FINCA_0459,Caldas,Banano Exportación,12.58,36.5,True,Medio,1838540,Volcánico,2025-08-22
+FINCA_0460,Huila,Banano Exportación,10.95,14.1,False,Medio,2001590,Franco-Limoso,2025-05-09
+FINCA_0461,Valle del Cauca,Café Variedad Castillo,39.42,14.9,False,Medio,2918412,Franco-Arenoso,2025-11-21
+FINCA_0462,Tolima,Banano Exportación,18.81,107.8,True,Bajo,4860492,Franco-Arenoso,2025-08-29
+FINCA_0463,Antioquia,Café Variedad Castillo,4.78,27.1,True,Medio,3130369,Franco-Arenoso,2025-05-19
+FINCA_0464,Quindío,Cacao Premium,48.52,42.2,True,Muy Alto,2372328,Franco-Limoso,2026-01-15
+FINCA_0465,Santander,Café Variedad Colombia,44.42,31.1,False,Medio,6309479,Arcilloso,2025-10-20
+FINCA_0466,Nariño,Café Variedad Colombia,46.53,45.8,True,Alto,6864998,Arcilloso,2025-05-13
+FINCA_0467,Antioquia,Café Variedad Castillo,49.76,13.0,False,Alto,4610691,Arcilloso,2026-01-06
+FINCA_0468,Valle del Cauca,Café Variedad Colombia,10.35,64.7,True,Bajo,2858097,Arcilloso,2026-01-28
+FINCA_0469,Quindío,Banano Exportación,21.02,12.8,True,Muy Alto,4800354,Franco-Arenoso,2025-08-19
+FINCA_0470,Valle del Cauca,Aguacate Hass,38.4,97.0,True,Bajo,6543227,Franco-Arenoso,2025-11-12
+FINCA_0471,Nariño,Café Variedad Castillo,35.41,31.9,True,Medio,2794315,Volcánico,2025-05-12
+FINCA_0472,Caldas,Café Variedad Colombia,9.39,67.1,False,Bajo,7587595,Franco-Limoso,2025-07-26
+FINCA_0473,Quindío,Café Variedad Castillo,41.16,106.2,False,Bajo,4075508,Franco-Limoso,2025-05-03
+FINCA_0474,Caldas,Café Variedad Castillo,12.77,79.9,True,Medio,3876219,Arcilloso,2025-07-13
+FINCA_0475,Nariño,Aguacate Hass,12.74,66.3,False,Bajo,2858311,Franco-Arenoso,2025-04-14
+FINCA_0476,Antioquia,Banano Exportación,27.77,42.3,True,Medio,7329429,Arcilloso,2025-03-27
+FINCA_0477,Nariño,Café Variedad Castillo,30.46,43.3,True,Medio,6010784,Volcánico,2025-06-19
+FINCA_0478,Antioquia,Café Variedad Colombia,29.84,82.0,True,Bajo,8127683,Franco-Limoso,2025-03-28
+FINCA_0479,Quindío,Cacao Premium,6.39,119.3,True,Bajo,7328116,Franco-Limoso,2025-09-19
+FINCA_0480,Quindío,Café Variedad Castillo,44.12,81.1,False,Medio,2789467,Arcilloso,2025-10-27
+FINCA_0481,Tolima,Café Variedad Castillo,14.75,69.1,True,Medio,1664074,Volcánico,2025-07-26
+FINCA_0482,Valle del Cauca,Aguacate Hass,8.22,89.0,True,Alto,4070466,Franco-Limoso,2025-08-24
+FINCA_0483,Tolima,Banano Exportación,44.66,58.5,False,Medio,5155180,Volcánico,2025-03-10
+FINCA_0484,Valle del Cauca,Cacao Premium,47.87,11.9,True,Alto,7733400,Volcánico,2025-07-14
+FINCA_0485,Tolima,Café Variedad Colombia,43.38,69.7,True,Medio,5983120,Arcilloso,2025-08-10
+FINCA_0486,Caldas,Cacao Premium,40.86,115.1,True,Medio,2290645,Franco-Arenoso,2025-08-26
+FINCA_0487,Quindío,Café Variedad Colombia,33.45,25.2,False,Medio,4787093,Arcilloso,2025-10-11
+FINCA_0488,Antioquia,Banano Exportación,28.44,84.4,True,Bajo,2517481,Franco-Arenoso,2025-12-19
+FINCA_0489,Valle del Cauca,Café Variedad Colombia,6.18,28.1,False,Medio,5094804,Volcánico,2025-06-10
+FINCA_0490,Nariño,Aguacate Hass,21.61,66.6,True,Alto,1562507,Franco-Arenoso,2025-11-27
+FINCA_0491,Valle del Cauca,Aguacate Hass,19.89,16.1,True,Medio,2605710,Volcánico,2025-05-01
+FINCA_0492,Antioquia,Aguacate Hass,14.47,56.8,False,Alto,7924628,Franco-Limoso,2025-03-27
+FINCA_0493,Tolima,Aguacate Hass,36.72,92.0,True,Alto,3838377,Franco-Limoso,2025-12-14
+FINCA_0494,Valle del Cauca,Cacao Premium,25.8,45.0,True,Alto,5887373,Franco-Limoso,2026-01-19
+FINCA_0495,Santander,Banano Exportación,5.89,81.5,False,Muy Alto,2306564,Arcilloso,2026-01-22
+FINCA_0496,Caldas,Café Variedad Colombia,12.57,96.5,False,Medio,5418949,Arcilloso,2025-11-03
+FINCA_0497,Quindío,Café Variedad Colombia,34.8,111.6,False,Medio,7547511,Volcánico,2026-01-16
+FINCA_0498,Antioquia,Aguacate Hass,5.65,32.0,False,Medio,3109473,Franco-Limoso,2025-10-05
+FINCA_0499,Quindío,Aguacate Hass,42.86,50.9,False,Medio,3211952,Arcilloso,2026-01-13
